@@ -1,7 +1,7 @@
 {
     "title": "Hivemind Webring",
     "description": "Friends with microblogs.",
-    "image": "freakazoid.jpg",
+    "image": "bee.png",
     "url": "https://webringdemo.netlify.com",
     "repo": "https://github.com/sublimemarch/webring",
     "admins": [
